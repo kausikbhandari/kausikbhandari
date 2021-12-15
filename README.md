@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kausikbhandari
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Funtional programming
+- 🌱 I’m currently working as a microservice designer
+- 💞️ I’m looking to collaborate on cloud native technologies
 - 📫 You can reach me @ kausik.bhandari@gmail.com
 
 <!---
